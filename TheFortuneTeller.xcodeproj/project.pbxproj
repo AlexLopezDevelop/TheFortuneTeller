@@ -12,6 +12,7 @@
 		AC74C63A215E9EA200DCEE13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC74C638215E9EA200DCEE13 /* Main.storyboard */; };
 		AC74C63C215E9EA300DCEE13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC74C63B215E9EA300DCEE13 /* Assets.xcassets */; };
 		AC74C63F215E9EA300DCEE13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC74C63D215E9EA300DCEE13 /* LaunchScreen.storyboard */; };
+		ACD7F006215F06CC009D34EE /* shake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ACD7F005215F06CC009D34EE /* shake.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AC74C63B215E9EA300DCEE13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC74C63E215E9EA300DCEE13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC74C640215E9EA300DCEE13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACD7F005215F06CC009D34EE /* shake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shake.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AC74C63B215E9EA300DCEE13 /* Assets.xcassets */,
 				AC74C63D215E9EA300DCEE13 /* LaunchScreen.storyboard */,
 				AC74C640215E9EA300DCEE13 /* Info.plist */,
+				ACD7F005215F06CC009D34EE /* shake.mp3 */,
 			);
 			path = TheFortuneTeller;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				AC74C63F215E9EA300DCEE13 /* LaunchScreen.storyboard in Resources */,
 				AC74C63C215E9EA300DCEE13 /* Assets.xcassets in Resources */,
 				AC74C63A215E9EA200DCEE13 /* Main.storyboard in Resources */,
+				ACD7F006215F06CC009D34EE /* shake.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

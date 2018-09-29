@@ -33,7 +33,7 @@
                                     <constraint firstAttribute="height" constant="51" id="qU0-GU-QqA"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="26"/>
-                                <state key="normal" title="Ask">
+                                <state key="normal" title="Ask: Press or Shake">
                                     <color key="titleColor" red="0.258289635181427" green="0.74990421533584595" blue="0.40328451991081238" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
