@@ -1,5 +1,5 @@
 # TheFortuneTeller
-The Fortune Teller helps you to decide the best option
+The Fortune Teller helps you to decide the best option with song.
 
 ![captura de pantalla 2018-09-29 a las 3 11 54](https://user-images.githubusercontent.com/32960226/46239205-81cc6680-c395-11e8-990d-7677b41e25ec.png)
 
